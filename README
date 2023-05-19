@@ -36,6 +36,7 @@ Container:
 Running instance of an Image
 ![Alt Text](/container.png)
 
+
 Volumes
 Allows sharing of data. Files & Folders
 Between host and container
