@@ -47,13 +47,21 @@ docker ps (process status)
 1.Container Management:
 
 docker run: Create and start a new container based on an image.
+
 docker start: Start one or more stopped containers.
+
 docker stop: Stop one or more running containers.
+
 docker restart: Restart one or more containers.
+
 docker pause: Pause processes in one or more containers.
+
 docker unpause: Unpause processes in one or more containers.
+
 docker rm: Remove one or more containers.
+
 docker ps: List running containers.
+
 docker ps -a: List all containers (including stopped ones).
 
 
@@ -61,15 +69,22 @@ docker ps -a: List all containers (including stopped ones).
 2.Image Management:
 
 docker pull: Download an image from a registry.
+
 docker build: Build a new image from a Dockerfile.
+
 docker push: Push an image to a registry.
+
 docker images: List available images.
+
 docker rmi: Remove one or more images.
 
 
 3.Volume Management:
 
 docker volume create: Create a new volume.
+
 docker volume ls: List volumes.
+
 docker volume inspect: Display detailed information about a volume.
+
 docker volume rm: Remove one or more volumes.
