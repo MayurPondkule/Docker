@@ -30,6 +30,8 @@ OS, Software, App Code
 Container:
 Running instance of an Image
 ![Alt Text](/container.png)
+https://github.com/MayurPondkule/Docker/blob/main/container.png?raw=true
+
 
 Volumes
 Allows sharing of data. Files & Folders
