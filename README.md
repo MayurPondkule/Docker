@@ -1,10 +1,5 @@
 Docker:
-Docker is a tool for running applications in an isolated Environment
-Similar to Virtual Machine
-App run in same environment
-Just works
-Standard for software deployment
-https://docs.docker.com/
+
 
 
 CONTAINERS:
